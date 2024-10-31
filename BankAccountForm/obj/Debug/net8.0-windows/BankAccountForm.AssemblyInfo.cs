@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BankAccountForm")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae5f9c3f02b4d78393763e2e70f5ec26cf555c5c")]
 [assembly: System.Reflection.AssemblyProductAttribute("BankAccountForm")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BankAccountForm")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
